@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitor-screen-orientation-bug-reproduction</string>
+    <string name="title_activity_main">capacitor-screen-orientation-bug-reproduction</string>
+    <string name="package_name">capacitor.screen.orientation.bug.reproduction</string>
+    <string name="custom_url_scheme">capacitor.screen.orientation.bug.reproduction</string>
+</resources>

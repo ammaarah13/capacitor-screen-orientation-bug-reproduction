@@ -1,0 +1,7 @@
+{
+  "name": "capacitor-screen-orientation-bug-reproduction",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
